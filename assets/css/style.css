@@ -689,14 +689,14 @@ body {
 
 .footer-link:is(:hover, :focus-visible) { color: var(--text-purple); }
 
-.contact-item .span {
+.about-item .span {
   color: var(--text-purple);
   font-size: var(--fontSize-7);
   text-transform: uppercase;
   font-weight: var(--weight-semiBold);
 }
 
-.contact-item:not(:last-child) { margin-block-end: 15px; }
+.about-item:not(:last-child) { margin-block-end: 15px; }
 
 .input-field {
   background-color: var(--bg-oxford-blue-alpha-90);
